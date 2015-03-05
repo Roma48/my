@@ -19,22 +19,49 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 */
 
-function create_post_type() {
-    register_post_type( 'page',
-        array(
-            'labels' => array(
-                'name' => __( 'Test' ),
-                'singular_name' => __( 'Test' )
-            ),
-            'public' => true,
-            'has_archive' => true,
+require_once('InstallDb.php');
+require_once('UnInstall.php');
+
+     class Test {
+
+         public function __construct(){
+             add_action( 'init', array($this, 'create_post_type'));
+             register_activation_hook(__FILE__, array($this, 'activate'));
+             register_deactivation_hook(__FILE__, array($this, 'deactivate'));
+         }
+
+         public function create_post_type()
+         {
+             register_post_type('test',
+                 array(
+                     'labels' => array(
+                         'name' => __('Test'),
+                         'singular_name' => __('Test')
+                     ),
+                     'public' => true,
+                     'has_archive' => true,
+                 )
+             );
+         }
+
+         public function activate(){
+             $db_install = new InstallDb();
+         }
+
+         public function deactivate(){
+             $db_uninstall = new UnInstall();
+         }
+
+     }
 
 
-        )
-    );
 
-}
-add_action( 'init', 'create_post_type' );
+
+$my = new Test();
+
+
+
+
 
 
 
