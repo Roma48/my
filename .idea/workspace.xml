@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29521a6d-b723-42a1-913c-bfc600a47920" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-content/plugins/test/main-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GeekHub.iml" afterPath="$PROJECT_DIR$/.idea/GeekHub.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php" afterPath="$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/test/test.php" afterPath="$PROJECT_DIR$/wp-content/plugins/test/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GeekHub.iws" />
@@ -34,40 +30,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.7884616" vertical-offset="615" max-vertical-offset="1386">
-              <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.3468208" vertical-offset="0" max-vertical-offset="1332">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#7#140#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnInstall.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.1153846" vertical-offset="0" max-vertical-offset="306">
-              <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-              <folding>
-                <marker date="1425586477553" expanded="true" signature="194:240" placeholder="DROP TABLE I..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_uninstall.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/admin/main_uninstall.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="506">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="67" />
-              <folding>
-                <marker date="1425583034129" expanded="true" signature="315:361" placeholder="DROP TABLE I..." />
-                <marker date="1425583034129" expanded="true" signature="380:430" placeholder="DROP TABLE I..." />
-                <marker date="1425583034129" expanded="true" signature="449:500" placeholder="DROP TABLE I..." />
-                <marker date="1425583034129" expanded="true" signature="519:567" placeholder="DROP TABLE I..." />
               </folding>
             </state>
           </provider>
@@ -86,21 +55,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ptest-personality-tests-for-wordpress.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/ptest-personality-tests-for-wordpress.php">
+      <file leaf-file-name="UnInstall.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.653846" vertical-offset="2368" max-vertical-offset="2898">
-              <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
-              <folding />
+            <state vertical-scroll-proportion="-3.8076923" vertical-offset="0" max-vertical-offset="306">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <marker date="1425586807945" expanded="true" signature="194:215" placeholder="DROP TABLE I..." />
+                <marker date="1425586807945" expanded="true" signature="194:230" placeholder="DROP TABLE I..." />
+                <marker date="1425586807945" expanded="true" signature="194:237" placeholder="DROP TABLE I..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php">
+      <file leaf-file-name="ptest-personality-tests-for-wordpress.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/ptest-personality-tests-for-wordpress.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="144">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="3.7692308" vertical-offset="1906" max-vertical-offset="2898">
+              <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -173,8 +146,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/test/test.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/test/test.php" />
       </list>
     </option>
   </component>
@@ -281,80 +254,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekHub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekreative" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="settings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekHub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekreative" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ptest-personality-tests-for-wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeekHub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekreative" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ptest-personality-tests-for-wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -677,18 +576,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/ptest-personality-tests-for-wordpress.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/admin/main_uninstall.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.653846" vertical-offset="2368" max-vertical-offset="2898">
-          <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
-          <folding />
+        <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="506">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="67" />
+          <folding>
+            <marker date="1425583034129" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1425583034129" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1425583034129" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+            <marker date="1425583034129" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/settings/settings.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/ptest-personality-tests-for-wordpress.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="144">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="3.7692308" vertical-offset="1906" max-vertical-offset="2898">
+          <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -704,35 +608,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7884616" vertical-offset="615" max-vertical-offset="1386">
-          <caret line="29" column="77" selection-start-line="29" selection-start-column="77" selection-end-line="29" selection-end-column="77" />
-          <folding>
-            <element signature="e#7#140#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/UnInstall.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.1153846" vertical-offset="0" max-vertical-offset="306">
-          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+        <state vertical-scroll-proportion="-3.8076923" vertical-offset="0" max-vertical-offset="306">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <marker date="1425586477553" expanded="true" signature="194:240" placeholder="DROP TABLE I..." />
+            <marker date="1425586807945" expanded="true" signature="194:215" placeholder="DROP TABLE I..." />
+            <marker date="1425586807945" expanded="true" signature="194:230" placeholder="DROP TABLE I..." />
+            <marker date="1425586807945" expanded="true" signature="194:237" placeholder="DROP TABLE I..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ptest-personality-tests-for-wordpress/admin/main_uninstall.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/test/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="506">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.3468208" vertical-offset="0" max-vertical-offset="1332">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1425583034129" expanded="true" signature="315:361" placeholder="DROP TABLE I..." />
-            <marker date="1425583034129" expanded="true" signature="380:430" placeholder="DROP TABLE I..." />
-            <marker date="1425583034129" expanded="true" signature="449:500" placeholder="DROP TABLE I..." />
-            <marker date="1425583034129" expanded="true" signature="519:567" placeholder="DROP TABLE I..." />
+            <element signature="e#7#140#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
